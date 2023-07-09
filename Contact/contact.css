@@ -1,0 +1,54 @@
+.gradient-background{
+  
+    /*background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+  */
+}
+@keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+body{
+  padding: 0%;
+    align-content: center;
+}
+.main{
+  background-color: ;
+}
+#contactUs{
+  
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container{
+   margin-top: 15px;
+   
+}
+
+h1{
+   color: gold;
+    padding-bottom: 15px;
+}
+.formshpe input, .formshpe select, .formshpe textarea{
+    width: 92%;
+    padding: 0.5rem;
+}
+
+::placeholder{
+    color: grey;
+}
+
+.sub{
+align-content: center;
+}

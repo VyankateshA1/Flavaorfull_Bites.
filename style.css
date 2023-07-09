@@ -1,0 +1,100 @@
+.gradient-background{
+  
+   /* background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+  */
+}
+@keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+
+body{
+}
+/*.container-fluid{
+  background-color: #b28669;
+  color: rgba(252,220,178,255);
+}*/
+.footer{
+  background-color: ;
+}
+h1{
+  font-family: 'Inknut Antiqua', serif;
+    text-align: left;
+    color:gold;
+    
+}
+.h{
+    text-align: center;
+    color:gold;
+}
+
+text{
+    text-align: center;
+    font-weight: 400;
+    margin-top: 2px;
+    
+}
+.newimg{
+  height: 70vh;
+  width: 100%;
+  border-radius: 10%;
+  display: inline-block;
+  
+}
+.droplink{
+    text-decoration: none;
+    color: black;
+}
+.wallpaper{
+  height: 500px;
+  display:block;
+  width: 100%;
+  
+  margin:auto;
+  margin-bottom: 3px;
+
+}
+
+button{
+    color: black;
+    border-radius: ;
+}
+.btn{
+  
+}
+
+button:hover,
+button:focus{
+    
+    animation: pulse 1s;
+    box-shadow: 0 0 0 2em transparent;
+    box-shadow: 0 0.5em 0.5em --0.4em var(--hover);
+    transform: translateY(-0.25em);
+}
+.navbar-brand{
+    font-family: 'Roboto Slab', serif;
+    font-weight: 600;
+}
+.footer{
+  text-decoration: dashed;
+  
+}
+
+.pic1{
+    border-radius: 10px;
+    border-style:groove;
+}
+
+.link{
+      text-decoration: none;
+      color: black;
+}
