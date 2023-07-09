@@ -37,7 +37,7 @@ Our dedicated staff is committed to delivering impeccable service, ensuring that
 
 We invite you to embark on a culinary adventure at FlavaorFull Bites. Come and indulge your senses with our delectable dishes, soak in the cozy ambiance, and create unforgettable memories. Visit us today and experience the flavors that will leave you craving for more.
 
-For more information, visit our website [www.flavaorfullbites.com](https://www.flavaorfullbites.com) or follow us on [Instagram](https://www.instagram.com/flavaorfullbites) and [Facebook](https://www.facebook.com/flavaorfullbites).
+For more information, visit our website [www.flavaorfullbites.com]([https://www.flavaorfullbites.com](https://github.com/VyankateshA1/Flavaorfull_Bites.)) or follow us on [Instagram](https://www.instagram.com/flavaorfullbites) and [Facebook](https://www.facebook.com/flavaorfullbites).
 
 ---
 
