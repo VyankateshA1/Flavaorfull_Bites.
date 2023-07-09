@@ -1,7 +1,7 @@
 
 # FlavaorFull Bites
 
-![FlavaorFull Bites Logo]()
+![FlavaorFull Bites Logo](imges/restaurant-15.svg)
 
 Welcome to FlavaorFull Bites, where culinary excellence meets unforgettable flavors! Our restaurant is dedicated to providing a delightful dining experience, combining innovative recipes with a warm and inviting atmosphere. Whether you're looking for a quick bite or a leisurely meal, FlavaorFull Bites is the perfect destination for food enthusiasts and connoisseurs alike.
 
@@ -25,7 +25,7 @@ One of our proudest creations is our signature dish, a culinary masterpiece that
 
 ### Cozy Ambience
 
-![Cozy Ambience](images/ambience.jpg)
+![Cozy Ambience](imges/wallp.jpg)
 
 At FlavaorFull Bites, we believe that ambiance plays a crucial role in enhancing your dining experience. Our restaurant features a cozy and welcoming atmosphere, designed to make you feel right at home. Whether you're enjoying an intimate dinner for two or celebrating a special occasion with friends and family, our comfortable surroundings provide the perfect backdrop for an unforgettable meal.
 
